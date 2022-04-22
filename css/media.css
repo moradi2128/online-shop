@@ -12,16 +12,16 @@
     height: 100vh;
   }
   .img-collaction {
-    transform: translateY(-45px) scale(1.2);
+    transform: translateY(-45px) scale(1.3);
   }
   .hover-collaction:hover .img-collaction {
-    transform: translateY(-30px) scale(1.1);
+    transform: translateY(-30px) scale(1.2);
   }
   .img-collaction2 {
-    transform: translate(-37px, -126px) scale(1.2);
+    transform: translate(-37px, -126px) scale(1.3);
   }
   .hover-collaction:hover .img-collaction2 {
-    transform: translate(-37px, -126px) scale(1.1);
+    transform: translate(-37px, -126px) scale(1.2);
   }
 }
 @media (max-width: 1199.98px) {

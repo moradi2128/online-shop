@@ -45,7 +45,7 @@
 }
 @font-face {
   font-family: yekanf;
-  src: url("../fonts/yekanf.woff") format('woff');
+  src: url("../fonts/yekanf.woff") format("woff");
   font-weight: normal;
 }
 /* General */
@@ -685,19 +685,19 @@ header {
 }
 
 .img-collaction {
-  transform: translateY(-61px) scale(1.2);
+  transform: scale(1.3);
 }
 
 .img-collaction2 {
-  transform: translate(-5px, -126px) scale(1.2);
+  transform:  scale(1.3);
 }
 
 .hover-collaction:hover .img-collaction {
-  transform: translateY(-61px) scale(1.1);
+  transform: scale(1.2);
 }
 
 .hover-collaction:hover .img-collaction2 {
-  transform: translate(-5px, -126px) scale(1.1);
+  transform:  scale(1.2);
 }
 
 /* blog section */
@@ -1299,7 +1299,7 @@ footer .dropdown-item {
   opacity: 0 !important;
 }
 /* lightbox  */
-.lightbox{
+.lightbox {
   top: 13% !important;
 }
 .lb-data .lb-close {
